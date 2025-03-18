@@ -15,10 +15,8 @@ func main() {
 	}
 
 	// printing an array which the user is give as input to confirm
-	for i := 0; i < n; i++ {
 		fmt.Println("Array given by you: ")
 		fmt.Println(arr)
-	}
 
 	// calculating teh value by calling the function
 	minval,maxval := MinAndMax(arr)
