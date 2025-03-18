@@ -15,9 +15,23 @@ func main() {
 	}
 
 	// printing an array which the user is give as input to confirm
+	    fmt.Println("Array given by you: ")
 		fmt.Println(arr)
 
-		
+
+		// printing the total sum of an array 
+		total:=sum(arr)
+		fmt.Printf("Sum of all the elements of an array is : %v ",total)
+	}
+
+	func sum(arr[]int) (int){
+		add:=0
+
+		for _,val:= range arr{
+			add=add+val
+		}
+		return add
+
 	}
 
 
