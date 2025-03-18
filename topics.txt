@@ -1,0 +1,92 @@
+📌 Beginner Level – Basics of Data Structures
+1️⃣ Arrays and Slices
+✅ Definition and memory layout
+✅ Operations: Insert, Delete, Update
+✅ Iteration using loops
+✅ Dynamic arrays using slices
+
+2️⃣ Strings
+✅ String manipulation
+✅ Substrings, concatenation
+✅ ASCII and Unicode handling
+✅ String comparison      
+// done till here
+
+3️⃣ Linked Lists
+✅ Singly Linked List (Insert, Delete, Traverse)
+✅ Doubly Linked List
+✅ Circular Linked List
+
+4️⃣ Stack
+✅ Stack using slices and linked list
+✅ Push, Pop, Peek operations
+✅ Applications: Undo/Redo, Parentheses Matching
+
+5️⃣ Queue
+✅ Queue using slices and linked list
+✅ Enqueue, Dequeue operations
+✅ Circular Queue
+✅ Double-ended Queue (Deque)
+
+6️⃣ Recursion
+✅ Base case and recursive case
+✅ Factorial, Fibonacci, Power function
+✅ Backtracking basics
+
+📌 Intermediate Level – Non-Linear Data Structures & Sorting
+7️⃣ Hashing & HashMaps
+✅ Hash functions
+✅ Handling collisions (Chaining, Open Addressing)
+✅ Implementing HashMap in Golang
+
+8️⃣ Trees
+✅ Binary Tree (Preorder, Inorder, Postorder)
+✅ Binary Search Tree (BST)
+✅ AVL Tree (Self-balancing BST)
+✅ Trie (Prefix Tree)
+
+9️⃣ Heaps & Priority Queue
+✅ Min Heap and Max Heap
+✅ Heap operations: Insert, Delete, Heapify
+✅ Priority Queue implementation
+
+🔟 Sorting Algorithms
+✅ Bubble Sort, Selection Sort, Insertion Sort
+✅ Merge Sort, Quick Sort, Heap Sort
+✅ Counting Sort, Radix Sort
+
+1️⃣1️⃣ Searching Algorithms
+✅ Linear Search
+✅ Binary Search (Iterative & Recursive)
+✅ Interpolation Search
+
+📌 Advanced Level – Graphs, Dynamic Programming, and More
+1️⃣2️⃣ Graphs
+✅ Representation (Adjacency List, Adjacency Matrix)
+✅ BFS and DFS
+✅ Topological Sorting
+✅ Shortest Path Algorithms (Dijkstra, Floyd-Warshall, Bellman-Ford)
+✅ Minimum Spanning Tree (Prim’s, Kruskal’s)
+
+1️⃣3️⃣ Dynamic Programming (DP)
+✅ Introduction to DP
+✅ Memoization vs Tabulation
+✅ Classic DP Problems: Knapsack, LIS, LCS, Matrix Chain Multiplication
+✅ DP on Trees and Graphs
+
+1️⃣4️⃣ Greedy Algorithms
+✅ Activity Selection Problem
+✅ Huffman Coding
+✅ Job Scheduling
+
+1️⃣5️⃣ Advanced Topics
+✅ Bit Manipulation (Set, Clear, Toggle, Count bits)
+✅ Segment Trees (Range Sum, Range Minimum Query)
+✅ Fenwick Tree (Binary Indexed Tree)
+
+📌 Competitive Programming Topics (Optional)
+✅ Sliding Window & Two Pointers
+✅ Disjoint Set (Union-Find)
+✅ KMP Algorithm (Pattern Matching)
+✅ Game Theory Basics
+
